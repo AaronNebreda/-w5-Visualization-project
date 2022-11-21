@@ -24,7 +24,7 @@ Para este proyecto se fijo el objetivo concreto de crear un dashboard mediante *
 2️⃣ Se cargó la información en Power BI, y se creo el dashboard que presenta las estadísticas extraidas. [ribera_duero.pbix](https://github.com/AaronNebreda/-w5-Visualization-project/blob/main/presentacion/ribera_duero.pbix)
 
    
-3️⃣ Puede seguir el dashboard a través del siguiente texto que describe el *storytelling.
+3️⃣ Puede seguir el dashboard a través del siguiente texto que describe el *storytelling*.
 
 
 ## Storytelling
