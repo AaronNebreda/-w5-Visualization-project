@@ -1,6 +1,6 @@
 # w5-Visualization-project
 
-![imagen](https://github.com/AaronNebreda/-w5-Visualization-project/blob/main/img/portada.jpg)
+![imagen1](https://github.com/AaronNebreda/-w5-Visualization-project/blob/main/img/portada1.jpg)
 “Copyright CRDO Ribera del Duero”
 
 
