@@ -12,7 +12,7 @@ El objetivo principal de este proyecto es realizar una visualización de la info
 
 ## Desarrollo
 
-Para este proyecto se fijo el objetivo concreto de crear un dashboard mediante **Power BI**, en el que se muesta un análisis de la producción vitícola en la Ribera del Duero.
+Para este proyecto se fijo el objetivo concreto de crear un dashboard mediante **Power BI**, en el que se muesta un análisis de la producción vitivinícola en la Ribera del Duero.
 
 1️⃣ Se realizó un pequeño proceso ETL:
 
@@ -34,7 +34,7 @@ Para este proyecto se fijo el objetivo concreto de crear un dashboard mediante *
 La denominación de origen Ribera del Duero es una de las más importantes de las 96 D.O. de vinos que existen en España. Se encuentra en Castilla y León dentro de una franja de la cuenca del río Duero, donde confluyen las provincias de Burgos, Valladolid, Soria y Segovia.
 En el año 2021  comprende una superficie de viñedo inscrita de 25.035 ha repartidas en 109 municipios. Como se puede observar la mayoría está en Burgos con casi  3/4 partes de la superficie total de viñedo.
 
-*(en está página se puede filtrar por provincia o explorar de forma interactiva a traves del mapa o la gráficas)
+*(en está página se puede filtrar por provincia o explorar de forma interactiva a traves del mapa o la gráficas)*
 
 
 ##### 📊 PÁGINA 2
@@ -45,7 +45,7 @@ En la Ribera hay 6 variedades de uva diferentes, todas ellas tinta excepto la al
 
 Si observamos la evolución para cada una de ellas destaca la clara tendencia negativa de la garnacha tinta, y la casi desaparición de cualquier otra variedad de uva fuera de estas 6, ya que a principio de siglo existía una considerable proporción de otras variedades.
 
-*(en esta página se puede filtrar por años y por variedad de uva para ver como evoluciona cada una de ellas)
+*(en esta página se puede filtrar por años y por variedad de uva para ver como evoluciona cada una de ellas)*
 
 
 ##### 📉 PÁGINA 3
@@ -54,5 +54,5 @@ Por último, la producción de uva durante los 30 últimos años describe una te
 
 Si se observa la producción por cada variedad de uva, también muestran estas oscilaciones interanuales, aunque no todas lo hacen de la misma  manera. Sería interesante ver qué variables se correlacionan con esas oscilaciones y ver cómo afecta a cada variedad de uva.
 
-*(en esta página se puede filtrar por años y por variedad de uva para ver la producción de cada una de ellas)
+*(en esta página se puede filtrar por años y por variedad de uva para ver la producción de cada una de ellas)*
 
